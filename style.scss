@@ -1,0 +1,118 @@
+* {
+    background-color: black;
+    // height: 1312px;
+    width: 856px;
+    margin:auto;
+    color: white;
+}
+
+.hello {
+    display: flex;
+    margin-top: 26px;
+}
+
+.inf {
+    width: 896px;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    width: 510px;
+    height: 93px;
+    // margin: 58px 0 0;
+    font-weight: bolder;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+.information {
+    width: 510px;
+    height: 179px;
+    color: white;
+    /* padding: 0px 108px 0px; */
+    /* left: 250px; */
+    font-size: 23px;
+    /* margin-bottom: 10px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+.foto__my {
+    width: 315px;
+    height: 274px;
+}
+.social__vk {
+    width: 39.31px;
+    height: 40.99px;
+}
+.social__viber {
+    width: 45.86px;
+    height: 46.67px;
+}
+.social__whats {
+    width: 49.14px;
+    height: 44.67px;
+}
+.social{
+    
+    display: flex;
+    /* justify-content: flex-end; */
+    /* flex-direction: row; */
+    width: 144px;
+    margin-left: 605px;
+}
+.header__2{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* justify-items: center; */
+    align-items: center;
+    font-weight: bolder;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 856px;
+    height: 83px;
+    
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 856px;
+height: 270px;
+
+}
+.pulsometr__img{
+    width: 231px;
+height: 190px;
+
+}
+.uber__img{
+    width: 231px;
+height: 190px;
+}
+.uber1__img{
+    width: 231px;
+height: 190px;
+}
+.pulsometr, .uber {
+    display: flex;
+}
+.social__footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 200px;
+    margin-left: 31px;
+}
